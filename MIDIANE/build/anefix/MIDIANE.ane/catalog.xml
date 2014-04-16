@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="org/osflash/signals/ISlot" mod="1355695971000" signatureChecksum="2208270880" >
+        <def id="org.osflash.signals:ISlot" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/Slot" mod="1355695971000" signatureChecksum="1119283569" >
+        <def id="org.osflash.signals:Slot" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="org.osflash.signals:IOnceSignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:ISlot" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/IOnceSignal" mod="1355695971000" signatureChecksum="3473564231" >
+        <def id="org.osflash.signals:IOnceSignal" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/ISignal" mod="1355695971000" signatureChecksum="3070698440" >
+        <def id="org.osflash.signals:ISignal" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="org.osflash.signals:IOnceSignal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/OnceSignal" mod="1355695971000" signatureChecksum="1768085121" >
+        <def id="org.osflash.signals:OnceSignal" /> 
+        <dep id="org.osflash.signals:SlotList" type="e" /> 
+        <dep id="flash.utils:getQualifiedClassName" type="e" /> 
+        <dep id="flash.errors:IllegalOperationError" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="Class" type="e" /> 
+        <dep id="org.osflash.signals:Slot" type="e" /> 
+        <dep id="org.osflash.signals:SlotList" type="s" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="org.osflash.signals:IOnceSignal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/Signal" mod="1355695971000" signatureChecksum="3886823097" >
+        <def id="org.osflash.signals:Signal" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:ISignal" type="i" /> 
+        <dep id="org.osflash.signals:OnceSignal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/IPrioritySignal" mod="1355695971000" signatureChecksum="2245279711" >
+        <def id="org.osflash.signals:IPrioritySignal" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:ISignal" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/INativeDispatcher" mod="1355695971000" signatureChecksum="1332707777" >
+        <def id="org.osflash.signals.natives:INativeDispatcher" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:IPrioritySignal" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/NativeRelaySignal" mod="1355695971000" signatureChecksum="1972602099" >
+        <def id="org.osflash.signals.natives:NativeRelaySignal" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="org.osflash.signals:Slot" type="e" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="org.osflash.signals:SlotList" type="s" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:Signal" type="i" /> 
+        <dep id="org.osflash.signals.natives:INativeDispatcher" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/NativeSignalSet" mod="1355695971000" signatureChecksum="803188953" >
+        <def id="org.osflash.signals.natives.sets:NativeSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="flash.utils:Dictionary" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="org.osflash.signals.natives:INativeDispatcher" type="s" /> 
+        <dep id="flash.utils:Dictionary" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/EventDispatcherSignalSet" mod="1355695971000" signatureChecksum="658928669" >
+        <def id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:EventDispatcher" type="s" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:NativeSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/NativeMappedSignal" mod="1355695971000" signatureChecksum="4218869767" >
+        <def id="org.osflash.signals.natives:NativeMappedSignal" /> 
+        <dep id="flash.utils:getQualifiedClassName" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="org.osflash.signals:SlotList" type="s" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives:NativeRelaySignal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/FileReferenceSignalSet" mod="1355695971000" signatureChecksum="4087740836" >
+        <def id="org.osflash.signals.natives.sets:FileReferenceSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:DataEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.events:HTTPStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:FileReference" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/SocketSignalSet" mod="1355695971000" signatureChecksum="2427366231" >
+        <def id="org.osflash.signals.natives.sets:SocketSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:Socket" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/Promise" mod="1355695971000" signatureChecksum="2350995348" >
+        <def id="org.osflash.signals:Promise" /> 
+        <dep id="flash.errors:IllegalOperationError" type="e" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:OnceSignal" type="i" /> 
+      </script>
+      <script name="com/numeda/MIDIANE/MIDIANEChannel" mod="1368412148000" signatureChecksum="152135574" >
+        <def id="com.numeda.MIDIANE:MIDIANEChannel" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="org.osflash.signals:Signal" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="e" /> 
+        <dep id="org.osflash.signals:Signal" type="s" /> 
+        <dep id="__AS3__.vec:Vector" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/DisplayObjectSignalSet" mod="1355695971000" signatureChecksum="4096966073" >
+        <def id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.display:DisplayObject" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/InteractiveObjectSignalSet" mod="1355695971000" signatureChecksum="719419429" >
+        <def id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" /> 
+        <dep id="flash.events:TextEvent" type="e" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:MouseEvent" type="e" /> 
+        <dep id="flash.events:KeyboardEvent" type="e" /> 
+        <dep id="flash.events:FocusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.display:InteractiveObject" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/StageSignalSet" mod="1355695971000" signatureChecksum="919368665" >
+        <def id="org.osflash.signals.natives.sets:StageSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.display:Stage" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/events/IBubbleEventHandler" mod="1355695971000" signatureChecksum="2048142056" >
+        <def id="org.osflash.signals.events:IBubbleEventHandler" /> 
+        <dep id="org.osflash.signals.events:IEvent" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalTextField" mod="1355695971000" signatureChecksum="186272488" >
+        <def id="org.osflash.signals.natives.base:SignalTextField" /> 
+        <dep id="org.osflash.signals.natives.sets:TextFieldSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:TextFieldSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.text:TextField" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalSprite" mod="1355695971000" signatureChecksum="1028542331" >
+        <def id="org.osflash.signals.natives.base:SignalSprite" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/NativeSignal" mod="1355695971000" signatureChecksum="4229804919" >
+        <def id="org.osflash.signals.natives:NativeSignal" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals:SlotList" type="e" /> 
+        <dep id="flash.errors:IllegalOperationError" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="Class" type="e" /> 
+        <dep id="org.osflash.signals:Slot" type="e" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="org.osflash.signals:SlotList" type="s" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives:INativeDispatcher" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalMovieClip" mod="1355695971000" signatureChecksum="26235566" >
+        <def id="org.osflash.signals.natives.base:SignalMovieClip" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:MovieClip" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/TextFieldSignalSet" mod="1355695971000" signatureChecksum="225801075" >
+        <def id="org.osflash.signals.natives.sets:TextFieldSignalSet" /> 
+        <dep id="flash.events:TextEvent" type="e" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.text:TextField" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:InteractiveObjectSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/TimerSignalSet" mod="1355695971000" signatureChecksum="1224108364" >
+        <def id="org.osflash.signals.natives.sets:TimerSignalSet" /> 
+        <dep id="flash.events:TimerEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.utils:Timer" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/SlotList" mod="1355695971000" signatureChecksum="3970276819" >
+        <def id="org.osflash.signals:SlotList" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/LoaderInfoSignalSet" mod="1355695971000" signatureChecksum="3747005352" >
+        <def id="org.osflash.signals.natives.sets:LoaderInfoSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:HTTPStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.display:LoaderInfo" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/SoundSignalSet" mod="1355695971000" signatureChecksum="2314311871" >
+        <def id="org.osflash.signals.natives.sets:SoundSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.media:Sound" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalTimer" mod="1355695971000" signatureChecksum="1425428375" >
+        <def id="org.osflash.signals.natives.base:SignalTimer" /> 
+        <dep id="org.osflash.signals.natives.sets:TimerSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:TimerSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.utils:Timer" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/MonoSignal" mod="1355695971000" signatureChecksum="1720108527" >
+        <def id="org.osflash.signals:MonoSignal" /> 
+        <dep id="flash.utils:getQualifiedClassName" type="e" /> 
+        <dep id="flash.errors:IllegalOperationError" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="Class" type="e" /> 
+        <dep id="org.osflash.signals:Slot" type="e" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="org.osflash.signals:Slot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:ISignal" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/NetConnectionSignalSet" mod="1355695971000" signatureChecksum="1221439980" >
+        <def id="org.osflash.signals.natives.sets:NetConnectionSignalSet" /> 
+        <dep id="flash.events:AsyncErrorEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.events:NetStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:NetConnection" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/NetStreamSignalSet" mod="1355695971000" signatureChecksum="3190722845" >
+        <def id="org.osflash.signals.natives.sets:NetStreamSignalSet" /> 
+        <dep id="flash.events:AsyncErrorEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:NetStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:NetStream" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalBitmap" mod="1355695971000" signatureChecksum="2880654301" >
+        <def id="org.osflash.signals.natives.base:SignalBitmap" /> 
+        <dep id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Bitmap" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/URLLoaderSignalSet" mod="1355695971000" signatureChecksum="3360409019" >
+        <def id="org.osflash.signals.natives.sets:URLLoaderSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.events:HTTPStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:URLLoader" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/PrioritySignal" mod="1355695971000" signatureChecksum="1488158566" >
+        <def id="org.osflash.signals:PrioritySignal" /> 
+        <dep id="org.osflash.signals:Slot" type="e" /> 
+        <dep id="org.osflash.signals:ISlot" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:IPrioritySignal" type="i" /> 
+        <dep id="org.osflash.signals:Signal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/DeluxeSignal" mod="1355695971000" signatureChecksum="3234757373" >
+        <def id="org.osflash.signals:DeluxeSignal" /> 
+        <dep id="org.osflash.signals.events:IEvent" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="org.osflash.signals.events:IBubbleEventHandler" type="e" /> 
+        <dep id="org.osflash.signals:SlotList" type="s" /> 
+        <dep id="org.osflash.signals.events:IEvent" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals:PrioritySignal" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalURLLoader" mod="1355695971000" signatureChecksum="1625704751" >
+        <def id="org.osflash.signals.natives.base:SignalURLLoader" /> 
+        <dep id="org.osflash.signals.natives.sets:URLLoaderSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:URLLoaderSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.net:URLLoader" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/XMLSocketSignalSet" mod="1355695971000" signatureChecksum="4181437143" >
+        <def id="org.osflash.signals.natives.sets:XMLSocketSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:DataEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.net:XMLSocket" type="s" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/events/IEvent" mod="1355695971000" signatureChecksum="2842593943" >
+        <def id="org.osflash.signals.events:IEvent" /> 
+        <dep id="org.osflash.signals:IPrioritySignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/events/GenericEvent" mod="1355695971000" signatureChecksum="184336311" >
+        <def id="org.osflash.signals.events:GenericEvent" /> 
+        <dep id="org.osflash.signals:IPrioritySignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.events:IEvent" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/SoundChannelSignalSet" mod="1355695971000" signatureChecksum="4017186836" >
+        <def id="org.osflash.signals.natives.sets:SoundChannelSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.media:SoundChannel" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalSocket" mod="1355695971000" signatureChecksum="2206287050" >
+        <def id="org.osflash.signals.natives.base:SignalSocket" /> 
+        <dep id="org.osflash.signals.natives.sets:SocketSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:SocketSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.net:Socket" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalXMLSocket" mod="1355695971000" signatureChecksum="1945258367" >
+        <def id="org.osflash.signals.natives.base:SignalXMLSocket" /> 
+        <dep id="org.osflash.signals.natives.sets:XMLSocketSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:XMLSocketSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.net:XMLSocket" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/FileReferenceListSignalSet" mod="1355695971000" signatureChecksum="3044373308" >
+        <def id="org.osflash.signals.natives.sets:FileReferenceListSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:FileReference" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/URLStreamSignalSet" mod="1355695971000" signatureChecksum="4173514255" >
+        <def id="org.osflash.signals.natives.sets:URLStreamSignalSet" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:ProgressEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.events:HTTPStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:URLStream" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/MicrophoneSignalSet" mod="1355695971000" signatureChecksum="1926069047" >
+        <def id="org.osflash.signals.natives.sets:MicrophoneSignalSet" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.events:ActivityEvent" type="e" /> 
+        <dep id="flash.media:Microphone" type="s" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="_669a5684265b906cccf0265705b73a8a126362aae91296a3bf93f23a587dffd4_flash_display_Sprite" mod="1369025639795" signatureChecksum="2869000585" >
+        <def id="_669a5684265b906cccf0265705b73a8a126362aae91296a3bf93f23a587dffd4_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/sets/SharedObjectSignalSet" mod="1355695971000" signatureChecksum="1150784351" >
+        <def id="org.osflash.signals.natives.sets:SharedObjectSignalSet" /> 
+        <dep id="flash.events:SyncEvent" type="e" /> 
+        <dep id="flash.events:AsyncErrorEvent" type="e" /> 
+        <dep id="flash.events:NetStatusEvent" type="e" /> 
+        <dep id="org.osflash.signals.natives:NativeSignal" type="s" /> 
+        <dep id="flash.net:SharedObject" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="org.osflash.signals.natives.sets:EventDispatcherSignalSet" type="i" /> 
+      </script>
+      <script name="com/numeda/MIDIANE/MIDIANE" mod="1369021195000" signatureChecksum="4145079677" >
+        <def id="com.numeda.MIDIANE:MIDIANE" /> 
+        <dep id="org.osflash.signals:Signal" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="com.numeda.MIDIANE:MIDIANEChannel" type="e" /> 
+        <dep id="flash.utils:getTimer" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="org.osflash.signals:Signal" type="s" /> 
+        <dep id="__AS3__.vec:Vector" type="s" /> 
+        <dep id="com.numeda.MIDIANE:MIDIANEChannel" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="org/osflash/signals/natives/base/SignalShape" mod="1355695971000" signatureChecksum="3253226137" >
+        <def id="org.osflash.signals.natives.base:SignalShape" /> 
+        <dep id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" type="e" /> 
+        <dep id="org.osflash.signals.natives.sets:DisplayObjectSignalSet" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Shape" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="dc4cd0ba3f5bfe0e507dfd599cbdc46eeaae6d157682cbdd547d029b457e5ab2"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

@@ -1,0 +1,407 @@
+TMIDIANE
+v5
+r1
+cCheck dependencies
+cSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resources Versions/Current/Resources
+cSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current A
+cSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE Versions/Current/MIDIANE
+cProcessInfoPlistFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist MIDIANE/MIDIANE-Info.plist
+cProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer
+cProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cLd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE normal i386
+cGenerateDSYMFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE
+cAnalyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+cAnalyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+cCopyStringsFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj/InfoPlist.strings MIDIANE/en.lproj/InfoPlist.strings
+cTouch /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework
+
+N/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac/Adobe AIR.framework/Headers/Adobe AIR.h
+c0000000051868F930000000000000314
+t1367773075
+s788
+i<Adobe AIR/FlashRuntimeExtensions.h>
+
+N/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac/Adobe AIR.framework/Headers/FlashRuntimeExtensions.h
+c0000000051868F930000000000004D54
+t1367773075
+s19796
+i<stdint.h>
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F90F72900000000000000CC
+t1334900521
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051178EA10000000000002470
+t1360498337
+s9328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000051178EA100000000000001E5
+t1360498337
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c0000000051178EA10000000000013E6C
+t1360498337
+s81516
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/CoreMIDI.h
+c0000000051178EA100000000000001EF
+t1360498337
+s495
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051178EA10000000000001534
+t1360498337
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h
+c0000000051178EA700000000000018EF
+t1360498343
+s6383
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/../../../../../../../../../Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac/Adobe AIR.framework/Adobe AIR
+c0000000051868F9F0000000001BD52E8
+t1367773087
+s29184744
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch
+c000000005198A4FB0000000000000091
+t1368958203
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+c00000000519C7D8B000000000000127E
+t1369210251
+s4734
+i<Foundation/Foundation.h>
+i<Adobe AIR/Adobe AIR.h>
+i"CoreMIDI/CoreMIDI.h"
+i"MIDIAgent.h"
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.cpp
+c000000005199C6E80000000000000097
+t1369032424
+s151
+i"MIDIAgent.h"
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.h
+c00000000519C6A1A0000000000000278
+t1369205274
+s632
+i<vector>
+i<string>
+i<iostream>
+i<CoreMIDI/CoreMIDI.h>
+i<Adobe AIR/Adobe AIR.h>
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+c00000000519C651A000000000000201B
+t1369203994
+s8219
+i"MIDIAgent.h"
+i<Adobe AIR/Adobe AIR.h>
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/en.lproj/InfoPlist.strings
+c000000005198A4FB000000000000002D
+t1368958203
+s45
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.LinkFileList
+c000000005199C7F20000000000000116
+t1369032690
+s278
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o
+t1369210252
+s35644
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o
+t1369208243
+s78580
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/StaticAnalyzer/normal/i386/MIDIANE.plist
+t2
+s0
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/StaticAnalyzer/normal/i386/MIDIAgent.plist
+t2
+s0
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework
+t1369210252
+s170
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM
+t1369210252
+s102
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE
+t3
+s24
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resources
+t3
+s26
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE
+t1369210252
+s45352
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist
+t1369025935
+s1231
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+t1369025938
+s92
+
+N/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current
+t3
+s1
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-bmcarezqltkozeemqwjcjtsjcqmo/MIDIANE-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-dkzzfacmqhralsfkvoykboxxbsai/MIDIANE-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch
+t1369025937
+s47321040
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fywuakynopclrvawzeaevwlrjtdm/MIDIANE-Prefix.pch.gch
+t1369207937
+s47321040
+
+N/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-grblugoneckvwwbhwzstsmtxwhcs/MIDIANE-Prefix.pch.pth
+t2
+s0
+
+NMIDIANE/MIDIANE-Info.plist
+c000000005198A4FB00000000000003B8
+t1368958203
+s952
+
+Nexports
+c000000005199B5490000000000000014
+t1369027913
+s20
+
+CAnalyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+s390988168.535237
+e390988168.543976
+r1
+xAnalyze
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+oclang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Analyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm35298988014eb741^57428b88014eb741^-88"clang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-390988168#18446744073709551615#0#1(2@74"invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)-390988168#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm0000000000000000^3692"Analyze MIDIANE/MIDIANE.mm    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -fvisibility-inlines-hidden -Wno-sign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -include /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch --analyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/StaticAnalyzer/normal/i386/MIDIANE.plist36"D1569F59-7A75-4A9D-8F83-4200A43BF982-
+
+CAnalyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.cpp
+r0
+
+CAnalyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+s390988168.535243
+e390988168.544655
+r1
+xAnalyze
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+oclang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Analyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mmad308988014eb741^5d6f8b88014eb741^-88"clang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-390988168#18446744073709551615#0#1(2@74"invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)-390988168#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm0000000000000000^3698"Analyze MIDIANE/MIDIAgent.mm    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -fvisibility-inlines-hidden -Wno-sign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -include /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch --analyze /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/StaticAnalyzer/normal/i386/MIDIAgent.plist36"2DF0DBDF-0ABF-477A-824A-D77C008BC681-
+
+CBuild AST from /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+r0
+
+CBuild AST from /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.cpp
+r0
+
+CBuild AST from /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb75f2288014eb741^a69c3788014eb741^---0#1#0#--18"Check dependencies36"837947DF-3F4D-4D9F-82B5-2A195CD95410-
+
+CCompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s390903052.120088
+e390903052.450615
+r1
+xCompileC
+xbuild/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm76e21e0cb54cb741^a35b730cb54cb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm0000000000000000^2470"CompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o MIDIANE/MIDIANE.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -include /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE.mm -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.o36"274C48CB-2CA7-4226-AE92-0BBE48C22656-
+
+CCompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s390901043.133179
+e390901043.499758
+r1
+xCompileC
+xbuild/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+o/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm: In function 'void ClientNotifyProc(const MIDINotification*, void*)':
+o/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm:158: warning: format not a string literal and no format arguments
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mmdb302233ad4cb741^17f37f33ad4cb741^-310"/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm: In function 'void ClientNotifyProc(const MIDINotification*, void*)':/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm:158: warning: format not a string literal and no format arguments1(21%IDEActivityLogMessage2@51"Format not a string literal and no format arguments-390901043#157#153#-1#-23%DVTTextDocumentLocation3@102"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm0000000000000000^157#18446744073709551615#157#18446744073709551615#18446744073709551615#0#51"Format not a string literal and no format arguments--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm0000000000000000^2478"CompileC build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o MIDIANE/MIDIAgent.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -include /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIAgent.mm -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIAgent.o36"56C2FAA4-F44C-4E1D-8FC3-D2D51B7AD6A0-
+
+CCopyStringsFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj/InfoPlist.strings MIDIANE/en.lproj/InfoPlist.strings
+s390718738.453159
+e390718738.499424
+r1
+xCopyStringsFile
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+xMIDIANE/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy MIDIANE/en.lproj/InfoPlist.strings23137412e549b741^1fda7f12e549b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/en.lproj/InfoPlist.strings0000000000000000^460"CopyStringsFile build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj/InfoPlist.strings MIDIANE/en.lproj/InfoPlist.strings    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/en.lproj -- MIDIANE/en.lproj/InfoPlist.strings36"43FEC9DE-716B-41DA-B28F-5282BC3FBBAD-
+
+CGenerateDSYMFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE
+s390903052.856979
+e390903052.901085
+r1
+xGenerateDSYMFile
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM077bdb0cb54cb741^b69de60cb54cb741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM/0000000000000000^501"GenerateDSYMFile build/Release/MIDIANE.framework.dSYM build/Release/MIDIANE.framework/Versions/A/MIDIANE    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework.dSYM36"7D94ECF7-07E2-4F4A-9E50-3F2513AE6477-
+
+CLd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE normal i386
+s390903052.457489
+e390903052.850387
+r1
+xLd
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE1a33750cb54cb741^92b2d90cb54cb741^---0#0#0#--1269"Ld build/Release/MIDIANE.framework/Versions/A/MIDIANE normal i386    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch i386 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -filelist /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/Objects-normal/i386/MIDIANE.LinkFileList -exported_symbols_list exports -install_name /Library/Frameworks/MIDIANE.framework/Versions/A/MIDIANE -mmacosx-version-min=10.5 -flat_namespace -weak_framework "Adobe AIR" -stdlib=libc++ -fobjc-link-runtime -framework CoreMIDI -framework "Adobe AIR" -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/MIDIANE36"7D8E7EF9-7342-4BD6-B856-CFE2F85BC770-
+
+CProcessInfoPlistFile /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist MIDIANE/MIDIANE-Info.plist
+s390718735.236828
+e390718735.239717
+r1
+xProcessInfoPlistFile
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist
+xMIDIANE/MIDIANE-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process MIDIANE/MIDIANE-Info.plistdcbd3c0fe549b741^7d5e3d0fe549b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Info.plist0000000000000000^412"ProcessInfoPlistFile build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist MIDIANE/MIDIANE-Info.plist    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    builtin-infoPlistUtility MIDIANE/MIDIANE-Info.plist -expandbuildsettings -platform macosx -o /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/A/Resources/Info.plist36"A70FB615-54FD-46EC-985F-0E9A4F4419EE-
+
+CProcessPCH++ /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/DerivedData/MIDIANE/Index/PrecompiledHeaders/MIDIANE-Prefix-aapfykylfyrwhqfqqouvtzkjxodo_ast/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/DerivedData/MIDIANE/Index/PrecompiledHeaders/MIDIANE-Prefix-alsafbipgmuhhhdyepzqlmkjvxij_ast/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/DerivedData/MIDIANE/Index/PrecompiledHeaders/MIDIANE-Prefix-hdsrccookyijivaiwlljqwjxtpge_ast/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-bmcarezqltkozeemqwjcjtsjcqmo/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-dkzzfacmqhralsfkvoykboxxbsai/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer
+s390988168.289295
+e390988168.528532
+r1
+xProcessPCH++
+x/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth
+xMIDIANE/MIDIANE-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oclang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MIDIANE/MIDIANE-Prefix.pch8c2f4a88014eb741^234e8788014eb741^-88"clang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-390988168#18446744073709551615#0#1(2@74"invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)-390988168#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@108"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch0000000000000000^3811"ProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -fvisibility-inlines-hidden -Wno-sign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -D__clang_analyzer__ -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch -o /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fmikibeewbcslwhedsmsyduuostr/MIDIANE-Prefix.pch.pth36"E1E5D737-5D70-4B9B-8D44-C13E415DFE63-
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s390718735.247987
+e390718738.245940
+r1
+xProcessPCH++
+x/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch
+xMIDIANE/MIDIANE-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MIDIANE/MIDIANE-Prefix.pchc0923f0fe549b741^baf53e12e549b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch0000000000000000^2443"ProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch -o /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fumlsaejetqmdsbpgpwdoxaliubo/MIDIANE-Prefix.pch.gch36"C389372E-182B-4C88-8D5C-6BBC79193B35-
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fywuakynopclrvawzeaevwlrjtdm/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s390900734.542432
+e390900737.833220
+r1
+xProcessPCH++
+x/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fywuakynopclrvawzeaevwlrjtdm/MIDIANE-Prefix.pch.gch
+xMIDIANE/MIDIANE-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MIDIANE/MIDIANE-Prefix.pch2aac8cfeab4cb741^514dd501ac4cb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch0000000000000000^2490"ProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fywuakynopclrvawzeaevwlrjtdm/MIDIANE-Prefix.pch.gch MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch -o /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-fywuakynopclrvawzeaevwlrjtdm/MIDIANE-Prefix.pch.gch36"0C5C3DE4-05D8-401F-8653-886AE7A4503E-
+
+CProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-grblugoneckvwwbhwzstsmtxwhcs/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer
+s390900783.326104
+e390900783.334146
+r1
+xProcessPCH++
+x/var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-grblugoneckvwwbhwzstsmtxwhcs/MIDIANE-Prefix.pch.pth
+xMIDIANE/MIDIANE-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oclang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MIDIANE/MIDIANE-Prefix.pch399a532fac4cb741^b98a552fac4cb741^-88"clang: error: invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-390900783#18446744073709551615#0#1(2@74"invalid deployment target for -stdlib=libc++ (requires OS X 10.7 or later)-390900783#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@22"file://localhost/clang0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@108"file://localhost/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch0000000000000000^3858"ProcessPCH++ /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-grblugoneckvwwbhwzstsmtxwhcs/MIDIANE-Prefix.pch.pth MIDIANE/MIDIANE-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -fvisibility-inlines-hidden -Wno-sign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-generated-files.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-own-target-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-all-target-headers.hmap -iquote /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/MIDIANE-project-headers.hmap -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources/i386 -I/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/MIDIANE.build/Release/MIDIANE.build/DerivedSources -F/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release "-F/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/runtimes/air/mac" -fvisibility=default -D__clang_analyzer__ -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/MIDIANE/MIDIANE-Prefix.pch -o /var/folders/rf/q26sz8sx5wzg0fqr5lhv926m0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/MIDIANE-Prefix-grblugoneckvwwbhwzstsmtxwhcs/MIDIANE-Prefix.pch.pth36"5A10B214-523F-4BAF-BC13-94567D70429D-
+
+CSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE Versions/Current/MIDIANE
+s390718735.181558
+e390718735.215154
+r1
+xSymLink
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE
+xVersions/Current/MIDIANE
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE37882e0fe549b741^0876380fe549b741^---0#0#0#--293"SymLink build/Release/MIDIANE.framework/MIDIANE Versions/Current/MIDIANE    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    /bin/ln -sf Versions/Current/MIDIANE /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/MIDIANE36"3867C332-CB73-457F-B94B-7D4793E40199-
+
+CSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resources Versions/Current/Resources
+s390718735.181554
+e390718735.215077
+r1
+xSymLink
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resources
+xVersions/Current/Resources
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Process /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resourcesc2872e0fe549b741^8670380fe549b741^---0#0#0#--301"SymLink build/Release/MIDIANE.framework/Resources Versions/Current/Resources    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    /bin/ln -sf Versions/Current/Resources /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Resources36"60523073-00C6-456D-8817-E0C023A2023B-
+
+CSymLink /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current A
+s390718735.181541
+e390718735.214719
+r1
+xSymLink
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current
+xA
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Process /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current1a872e0fe549b741^4301370fe549b741^---0#0#0#--265"SymLink build/Release/MIDIANE.framework/Versions/Current A    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    /bin/ln -sf A /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework/Versions/Current36"C50333E7-3DA6-48CC-A985-DB7186D69F8E-
+
+CTouch /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework
+s390903052.916563
+e390903052.922749
+r1
+xTouch
+x/Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework6bb6ea0cb54cb741^4739ec0cb54cb741^---0#0#0#--231"Touch build/Release/MIDIANE.framework    cd /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE    /usr/bin/touch -c /Users/jonathan/Documents/git/numeda/Projects/MIDIANE/mac/MIDIANE/build/Release/MIDIANE.framework36"76ED3F16-774B-4350-A15E-8BC2DD7FA156-
+

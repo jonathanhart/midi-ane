@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+    <id>com.numeda.MIDIANE</id>
+    <versionNumber>0.0.2</versionNumber>
+    <platforms>
+        <platform name="MacOS-x86">
+            <applicationDeployment>
+                <nativeLibrary>MIDIANE.framework</nativeLibrary>
+                <initializer>MIDIANEInitializer</initializer>
+                <finalizer>MIDIANEFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+     </platforms>
+</extension>
