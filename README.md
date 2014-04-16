@@ -14,3 +14,11 @@ To set up the correct internal MIDI buses for Traktor, follow the instructions d
 https://www.youtube.com/watch?v=ShO7FbOuSrQ
 
 Documentation to come, but if you're hungry enough, there's enough here to get started.
+
+REQUIRED FRAMEWORKS:
+
+AppKit.framework
+CoreData.framework
+CoreMIDI.framework
+Foundation.framework
+
